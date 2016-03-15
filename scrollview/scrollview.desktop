@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=scrollview
+Exec=scrollview
+Icon=scrollview/scrollview.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
